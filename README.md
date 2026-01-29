@@ -1,1 +1,1 @@
-# e-commerce-app-project
+npx @# e-commerce-app-project
